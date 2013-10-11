@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>GoCode</title>
+    <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet">
     <style media="all">
       body {
         min-height: 100%;
@@ -15,7 +16,8 @@
         background-size: cover;
         filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/gocodelanding.jpg',sizingMethod='scale');
         -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/gocodelanding.jpg',sizingMethod='scale')";
-        font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+        /*font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;*/
+        font-family: Futura, "Trebuchet MS", Arial, sans-serif;
       }
 
       .box {
@@ -50,13 +52,33 @@
         float: left;
         margin-right: 15px;
       }
+
+      /*#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }*/
+      #mc_embed_signup .button {
+        /*background-color: inherit;
+        color: inherit;*/
+      }
+      #mc_embed_signup input.email {
+        font-size: 28px;
+        width: 90%;
+      }
+
+      #mc_embed_signup input.button {
+        font-size: 28px;
+        width: auto;
+        padding: 3px 8px;
+        height: 40px;
+      }
     </style>
+    
     <script type="text/javascript">
       (function(){
         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
         po.src = 'https://apis.google.com/js/plusone.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
       })();
+
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
     </script>
   </head>
   <body>
@@ -64,7 +86,7 @@
       <ul>
         <li><g:plusone></g:plusone></li>
         <li style="padding-top: 2px">
-          <a href="http://twitter.com/share" class="twitter-share-button">Tweet</a>    
+          <a href="https://twitter.com/share" class="twitter-share-button" data-text="Code free, finally!" data-via="GoCodeio" data-url="http://gocode.io">Tweet</a>
         </li>
         <li>
           <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.gocode.io/&amp;layout=standard&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;height=80" style="clear: both; border:none; overflow:hidden;"></iframe>
@@ -76,11 +98,21 @@
     </div>
     <div class="box bg" style="top: 500px; right: 300px;">Code free, finally!</div>
     <div class="box bg" style="bottom: 0; left: 50px;">Find your freedom:</div>
-    <div class="box" style="bottom: -150px; left: 50px;">
-      <a href="#" class="opa">
+    <div class="box" style="bottom: -130px; left: 50px; min-width: 500px; padding: 0;">
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="http://gocode.us7.list-manage1.com/subscribe/post?u=6ea1ffbe434d7489c14d7b165&amp;id=acd0d47aac" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" style="padding:0" novalidate>
+  
+  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+  <div class="clear"><input type="submit" value="Keep me posted" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
+      <!--<a href="#" class="opa">
         <img src="images/ChromeWebStore_BadgeWBorder_v2_340x96.png">
-      </a>
+      </a>-->
     </div>
-    <script src="http://platform.twitter.com/widgets.js"></script>
   </body>
 </html>
