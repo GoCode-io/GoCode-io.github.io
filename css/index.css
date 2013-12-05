@@ -239,7 +239,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1026
+#u1748
 {
 	width: 112px;
 	min-height: 34px;
@@ -248,7 +248,7 @@
 	left: 340px;
 }
 
-#u1027
+#u1749
 {
 	width: 112px;
 	background-color: #000000;
@@ -256,19 +256,19 @@
 	position: relative;
 }
 
-#u1027:hover
+#u1749:hover
 {
 	background-color: #999999;
 	margin: 0px;
 }
 
-#u673:active,#u881:active,#u1027:active
+#u673:active,#u881:active,#u1749:active
 {
 	background-color: #6B6B6B;
 	margin: 0px;
 }
 
-#u1028-4
+#u1752-4
 {
 	width: 112px;
 	min-height: 22px;
@@ -285,7 +285,7 @@
 	top: 6px;
 }
 
-#u881.MuseMenuActive #u884-4,#u1027:hover #u1028-4
+#u881.MuseMenuActive #u884-4,#u1749:hover #u1752-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -293,7 +293,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1027:active #u1028-4
+#u1749:active #u1752-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -301,7 +301,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1027.MuseMenuActive #u1028-4
+#u1749.MuseMenuActive #u1752-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -309,7 +309,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u377.MuseMenuActive #u378-4 p,#u673.MuseMenuActive #u676-4 p,#u881.MuseMenuActive #u884-4 p,#u1027.MuseMenuActive #u1028-4 p
+#u377.MuseMenuActive #u378-4 p,#u673.MuseMenuActive #u676-4 p,#u881.MuseMenuActive #u884-4 p,#u1749.MuseMenuActive #u1752-4 p
 {
 	font-size: 18px;
 	font-family: arvo, serif;

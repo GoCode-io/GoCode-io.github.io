@@ -1,116 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gocode.io/scripts/form_check.php</loc>
-    <lastmod>2013-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gocode.io/scripts/form_throttle.php</loc>
-    <lastmod>2013-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gocode.io/scripts/form-u1153.php</loc>
-    <lastmod>2013-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://gocode.io/images/pasted%20image%20962x358.jpg</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gocode.io/images/pasted%20image%20309x217.jpg</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gocode.io/images/pasted%20image%20323x219.jpg</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gocode.io/images/pasted%20image%20207x215.jpg</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gocode.io/images/pasted%20image%20496x150.jpg</loc>
-    <lastmod>2013-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gocode.io/images/u1180-17.png</loc>
-    <lastmod>2013-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gocode.io/images/u1180-17-r.png</loc>
-    <lastmod>2013-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gocode.io/images/u1180-17-m.png</loc>
-    <lastmod>2013-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://gocode.io/images/u1180-17-fs.png</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gocode.io/images/pasted%20image%201500x408.jpg</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gocode.io/images/pasted%20image%201500x408125x34.jpg</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gocode.io/images/u876-11.png</loc>
-    <lastmod>2013-11-20</lastmod>
+    <loc>http://gocode.io/images/pasted%20image%20201x502-u1561.jpg</loc>
+    <lastmod>2013-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gocode.io/images/pasted%20image%20565x397.jpg</loc>
+    <lastmod>2013-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gocode.io/images/pasted%20image%20529x371.jpg</loc>
+    <lastmod>2013-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gocode.io/images/u876-12.png</loc>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gocode.io/index.html</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gocode.io/about.html</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://gocode.io/pricing.html</loc>
-    <lastmod>2013-11-20</lastmod>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gocode.io/contact.html</loc>
-    <lastmod>2013-11-20</lastmod>
+    <loc>http://gocode.io/versions.html</loc>
+    <lastmod>2013-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
